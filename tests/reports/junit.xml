@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="6" failures="0" errors="0" time="22.922">
+    <testsuite name="tests/components/HelloWorld.test.tsx" timestamp="2026-02-12T08:35:40.469Z" hostname="PCLAT502170" tests="6" failures="0" errors="0" skipped="0" time="0.3898095">
+        <testcase classname="tests/components/HelloWorld.test.tsx" name="HelloWorld component &gt; renders user display name and description" time="0.1380664">
+        </testcase>
+        <testcase classname="tests/components/HelloWorld.test.tsx" name="HelloWorld component &gt; renders environment message" time="0.0237955">
+        </testcase>
+        <testcase classname="tests/components/HelloWorld.test.tsx" name="HelloWorld component &gt; shows dark image when isDarkTheme is true" time="0.1279548">
+        </testcase>
+        <testcase classname="tests/components/HelloWorld.test.tsx" name="HelloWorld component &gt; shows light image when isDarkTheme is false" time="0.026183">
+        </testcase>
+        <testcase classname="tests/components/HelloWorld.test.tsx" name="HelloWorld component &gt; applies Teams style when hasTeamsContext is true" time="0.0125935">
+        </testcase>
+        <testcase classname="tests/components/HelloWorld.test.tsx" name="HelloWorld component &gt; renders all documentation links" time="0.0573163">
+        </testcase>
+    </testsuite>
+</testsuites>
