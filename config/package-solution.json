@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-heft-vitest-testing-client-side-solution",
+    "id": "d8ca5bd9-9fbe-4c05-9680-52e9609d0e1f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.22.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-heft-vitest-testing description"
+      },
+      "longDescription": {
+        "default": "spfx-heft-vitest-testing description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-heft-vitest-testing Feature",
+        "description": "The feature that activates elements of the spfx-heft-vitest-testing solution.",
+        "id": "0d7b7840-f1be-4524-ab5e-837a97ed2c63",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-heft-vitest-testing.sppkg"
+  }
+}
