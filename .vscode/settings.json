@@ -10,5 +10,9 @@
     "**/lib-amd": true,
     "src/**/*.scss.ts": true
   },
-  "typescript.tsdk": ".\\node_modules\\typescript\\lib"
+  "typescript.tsdk": ".\\node_modules\\typescript\\lib",
+  "workbench.colorTheme": "Light+",
+  "workbench.statusBar.visible": true,
+  "workbench.editor.showTabs": "multiple",
+  "workbench.activityBar.location": "default"
 }
